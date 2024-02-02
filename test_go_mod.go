@@ -7,7 +7,7 @@ import (
 
 
 func Test_go_mod() bool {
-    fmt.Println("UPDATED - Test remote module!")
+    fmt.Println("UPDATED AGAIN - Test remote module!")
 
     return true
 }
